@@ -94,7 +94,7 @@ The model is calibrated to real end-of-day TSLA option quotes (2019–2022, [Kag
 ├── calibration.py           # Residual functions, DE + least-squares pipeline
 ├── data_preprocessing.py    # TSLA options data cleaning and market price/IV construction
 ├── visualization.py         # Parameter comparison and smile-fit plotting
-└── Heston_Project_Final.ipynb  # Full analysis notebook
+└── Heston_Project.ipynb  # Full analysis notebook
 ```
 
 ## Requirements
